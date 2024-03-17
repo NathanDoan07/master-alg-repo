@@ -6,10 +6,10 @@
 - If the user wishes to test on different values, an IDE will be required to directly edit the file.
 
 ## Greedy Algorithms
-- Interval Scheduling:
-- Interval Partitioning:
-- Minimize Lateness:
-- Dijkstra's:
+- Interval Scheduling: https://github.com/NathanDoan07/interval-scheduling
+- Interval Partitioning: https://github.com/NathanDoan07/interval-partitioning
+- Minimize Lateness: https://github.com/NathanDoan07/minimize-lateness
+- Dijkstra's: https://github.com/NathanDoan07/dijkstra-shortest
 - Prim's:
 - Kruskal's:
 
@@ -25,4 +25,4 @@
 - Knapsack:
 
 ## Misc:
-- Stable Matching: https://github.com/NathanDoan07/stable-matching/tree/main
+- Stable Matching: https://github.com/NathanDoan07/stable-matching/
