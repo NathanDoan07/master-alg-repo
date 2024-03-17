@@ -1,5 +1,7 @@
 ## Description
 > This repo contains links to all other algorithms that were created.
+> If unable to access the links, please email for a request.
+> All algorithms have been written in Python.
 
 ## Greedy Algorithms
 - Interval Scheduling:
