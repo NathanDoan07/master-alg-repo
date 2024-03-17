@@ -19,3 +19,6 @@
 - Fibonacci:
 - Weighted Interval Scheduling:
 - Knapsack:
+
+## Misc:
+- Stable Matching: https://github.com/NathanDoan07/stable-matching/tree/main
