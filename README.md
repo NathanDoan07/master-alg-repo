@@ -10,19 +10,13 @@
 - Interval Partitioning: https://github.com/NathanDoan07/interval-partitioning
 - Minimize Lateness: https://github.com/NathanDoan07/minimize-lateness
 - Dijkstra's: https://github.com/NathanDoan07/dijkstra-shortest
-- Prim's:
-- Kruskal's:
+- Prim's: https://github.com/NathanDoan07/prims
 
 ## Divide & Conquer:
-- Mergesort:
-- Counting Inversions:
-- Merge and Count:
-- Closest Pair of Points:
+- Merge Sort: https://github.com/NathanDoan07/merge-sort-problems
 
 ## Dynamic Programming:
-- Fibonacci:
-- Weighted Interval Scheduling:
-- Knapsack:
+- Knapsack: https://github.com/NathanDoan07/knapsack
 
 ## Misc:
 - Stable Matching: https://github.com/NathanDoan07/stable-matching/
